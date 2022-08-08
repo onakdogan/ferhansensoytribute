@@ -1,0 +1,42 @@
+#main {
+    background-color: #A2F5AC;
+    margin: auto;
+    width: 70%;
+  }
+  
+  #title {
+    color: black;
+    font-size: 5em;
+    text-align: center;
+  }
+  
+  #description {
+    color: rgb(100,0,24);
+    width: 80%;
+    text-align: justify;
+    margin: auto;
+    padding-bottom: 1em;
+    
+  }
+  
+  #img-div {
+    width: 50%;
+    margin: auto;
+  }
+  
+  #image {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-weight: 600;
+    padding-top: 0.3em;
+    background-color: #C5EB54;
+    }
+  
+  
